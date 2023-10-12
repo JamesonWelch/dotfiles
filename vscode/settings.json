@@ -1,0 +1,25 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.fontSize": 11,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.fontSize": 10,
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Winter is Coming (Dark Black - No Italics)",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "jupyter.askForKernelRestart": false,
+    "files.exclude": {
+        "**/.git": false
+    },
+    "terminal.integrated.localEchoStyle": "dim",
+    "workbench.colorCustomizations" : {
+        "terminal.foreground" : "#7DF9FF",
+        "terminal.background" : "#1b1b1b"
+    }
+}
