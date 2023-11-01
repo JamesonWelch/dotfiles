@@ -1,0 +1,13 @@
+
+--- iterm2 ---
+
+cmd-d		new pane on right side
+shift-cmd-d	new pane below
+
+cmd-[ & cmd-]	scroll through panes
+
+
+--- vim ---
+
+80 col line	set colorcolumn=80
+unset		set cc=
